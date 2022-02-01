@@ -1,5 +1,5 @@
-# Laboratoire 1 : Duplication du code
-## LOG530 – Réingénierie du Logiciel
+# TP 1 : Duplication du code
+## MGL804 – Réalisation et maintenance des logiciels
 ### Barème
 
 | Critères                                                                                                                                                                                                                                                                              | Évaluation                                       |
